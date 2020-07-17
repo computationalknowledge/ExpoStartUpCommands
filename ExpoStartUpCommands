@@ -1,0 +1,24 @@
+References:  https://docs.expo.io/versions/latest/workflow/configuration/ 
+
+You can first update npm with this: 
+
+npm install -g npm (step 1)
+
+npm install -g expo-cli (step 2)
+
+Once this installation is complete, you'll have a new expo command available on your system. 
+
+To start a new project, we can run the expo init command, as follows: 
+
+expo init my-project   (Step 3)
+
+cd into your Project Directory
+
+Run
+
+npm start
+
+Observe the output in your Browser
+
+
+
