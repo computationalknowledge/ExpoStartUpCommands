@@ -5,6 +5,7 @@ import React from "react";
 import { Text, View } from "react-native";
 
 export default function App() {
+  console.log("*** example of how to output a trace debugging message.");
   return (
     <View style={{ padding: 50 }}>
       <Text>ready...</Text>
