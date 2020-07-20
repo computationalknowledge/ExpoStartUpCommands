@@ -10,7 +10,7 @@ Once this installation is complete, you'll have a new expo command available on 
 
 To start a new project, we can run the expo init command, as follows: 
 
-expo init my-project   (Step 3)
+npx expo init my-project   (Step 3)
 
 cd into your Project Directory
 
